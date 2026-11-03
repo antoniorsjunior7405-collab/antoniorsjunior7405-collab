@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Exploring+Artificial+Intelligence;Building+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Exploring+Artificial+Intelligence;Building+and+Learning+Every+Day"/>
 
-<br/>
+<br/><br/>
 
-<a href="LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/antonio-j%C3%BAnior-9585b6253/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
-<a href="LINK_GITHUB">
+<a href="https://github.com/antoniorsjunior7405-collab">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -54,12 +54,12 @@ Currently exploring how AI can be used to build useful applications, improve wor
 
 <br/>
 
-## `03` — Selected Projects
+## `03` — Projects
 
 <div align="center">
 
-<a href="LINK_DO_PROJETO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
+<a href="https://github.com/antoniorsjunior7405-collab/Pitaya_Escolar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniorsjunior7405-collab&repo=Pitaya_Escolar&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
 </a>
 
 </div>
@@ -70,7 +70,7 @@ Currently exploring how AI can be used to build useful applications, improve wor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniorsjunior7405-collab&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 

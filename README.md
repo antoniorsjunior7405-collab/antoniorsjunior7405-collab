@@ -54,32 +54,4 @@ Currently exploring how AI can be used to build useful applications, improve wor
 
 <br/>
 
-## `03` — Projects
 
-<div align="center">
-
-<a href="https://github.com/antoniorsjunior7405-collab/Pitaya_Escolar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniorsjunior7405-collab&repo=Pitaya_Escolar&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
-</a>
-
-</div>
-
-<br/>
-
-## `04` — GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniorsjunior7405-collab&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123E68,100:080B16&height=80&section=footer"/>
-
-<sub>Learning. Building. Improving.</sub>
-
-</div>

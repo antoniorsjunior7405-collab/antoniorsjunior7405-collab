@@ -1,82 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Antonio%20Augusto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20%7C%20AI%20%7C%20Software%20Development&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:101D3A,100:123E68&height=220&section=header&text=ANTONIO%20AUGUSTO&fontSize=42&fontColor=EAF6FF&fontAlignY=43&desc=SOFTWARE%20%2F%20AI%20%2F%20AUTOMATION&descSize=13&descAlignY=65&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Exploring+Generative+AI;Building+with+Python;AI+%2B+Automation+%2B+Software" />
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Exploring+Artificial+Intelligence;Building+and+Learning+Every+Day" />
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Antonio Augusto"
-        self.education = "Information Systems"
-        self.interests = [
-            "Artificial Intelligence",
-            "Automation",
-            "Software Development",
-            "Python"
-        ]
-        self.current_focus = "Building AI-powered solutions"
-
-    def say_hi(self):
-        print("Always learning and building!")
-```
-
----
-
-## ⚡ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,react,git,github,vscode" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Pitaya_Escolar&theme=tokyonight&hide_border=true"/>
+<a href="LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+<a href="LINK_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
+
+## `01` — About
+
+```yaml
+name: Antonio Augusto
+education: Information Systems
+focus:
+  - Software Development
+  - Generative AI
+  - Automation
+currently: Learning by building
+```
+
+I'm an Information Systems student interested in software development, artificial intelligence, and automation.
+
+Currently exploring how AI can be used to build useful applications, improve workflows, and solve real-world problems.
+
+<br/>
+
+## `02` — Tech Stack
 
 <div align="center">
 
-### 💡 *"Building today what I want to understand tomorrow."*
+<img src="https://skillicons.dev/icons?i=python,typescript,react,git,github,vscode&theme=dark"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=74AA9C"/>
+<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=D97757"/>
+
+</div>
+
+<br/>
+
+## `03` — Selected Projects
+
+<div align="center">
+
+<a href="LINK_DO_PROJETO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8"/>
+</a>
+
+</div>
+
+<br/>
+
+## `04` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123E68,100:080B16&height=80&section=footer"/>
+
+<sub>Learning. Building. Improving.</sub>
 
 </div>

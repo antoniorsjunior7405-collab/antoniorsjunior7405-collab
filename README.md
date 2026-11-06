@@ -41,7 +41,9 @@ Currently exploring how AI can be used to build useful applications, improve wor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,git,github,vscode&theme=dark"/>
+
+<p>Project technologies: React Native · Expo · Fastify · Drizzle ORM · Jest</p>
 
 <br/><br/>
 
@@ -54,4 +56,14 @@ Currently exploring how AI can be used to build useful applications, improve wor
 
 <br/>
 
+## `03` — Featured Projects
 
+### Pitaya Escolar — School Transportation Platform
+
+Freelance project: a mobile app and API for school transportation, with family and driver workflows, trip management, driver approval, and trip location tracking.
+
+**Technologies:** React Native, Expo, TypeScript, Node.js, Fastify, PostgreSQL, Drizzle ORM.
+
+### [Task Manager in Python](https://github.com/antoniorsjunior7405-collab/gerenciador-tarefas-python)
+
+A terminal-based task manager that organizes tasks, adds details, and generates an HTML page for viewing and printing. Built with Python and HTML.
